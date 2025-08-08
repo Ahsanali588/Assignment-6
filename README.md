@@ -106,3 +106,18 @@
 }
      
  }
+
+ 
+
+
+
+// 10th
+
+
+ String myTexts = "";
+   
+   if(myTexts.isEmpty){
+     print("My text is empty");
+   } else {
+     print("My text is Not Empty");
+   }
